@@ -1,7 +1,11 @@
 <br/>
 <h1 align="center">AI based SARS-CoV-2 mutation simulation</h1>
 <br/>
-To decipher the mutation law of the virus, we develop a solution for the mutation simulation of SARS-CoV-2 based on AI and HPC. Our method paves the way for simulating coronavirus evolution in order to prepare for a future pandemic that will inevitably take place.
+
+This is official implement of our work "Running ahead of evolution - AI based simulaion for predicting future high-risk SARS-CoV-2 variants".
+
+To decipher the mutat law of the virus, we develop a solution for the mutation simulation of SARS-CoV-2 based on AI and HPC. Our method paves the way for simulating coronavirus evolution in order to prepare for a future pandemic that will inevitably take place.
+
 
 ![image](images/arc.png)
 
