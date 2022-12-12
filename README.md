@@ -45,4 +45,4 @@ Note: This code only tested on Pengcheng Cloud2. If you want run it on your own 
 python generate_mutation.py --generate_number 1000 --rbd_name wild_type --load_checkpoint_path pretrained_ckpt_path
 ```
 ## Acknowledgments
-This repository is base on Mindspore official BERT code. For more details [see](https://github.com/mindspore-ai/models/tree/master/official/nlp/Bert).
+This repository is based on Mindspore official BERT code. For more details [see](https://github.com/mindspore-ai/models/tree/master/official/nlp/Bert).
