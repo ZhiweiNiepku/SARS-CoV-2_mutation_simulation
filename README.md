@@ -37,7 +37,7 @@ python run_pretrain.py --enable_modelarts True
 Note: This code only tested on Pengcheng Cloud2. If you want run it on your own machine, you need do some modification
 
 ## Pretrained Models Availability
-[Download](https://zenodo.org/deposit/7417029) 
+[Download](https://zenodo.org/record/7417029#.Y5b-x7JByBQ) 
 
 ## Generate mutations
 
