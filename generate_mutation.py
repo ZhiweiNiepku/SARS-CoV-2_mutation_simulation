@@ -159,7 +159,7 @@ if __name__ == "__main__":
     max_lm = 5  # max mutation amino acid number
     topk = cfg.topk  # Randomly pick one from topk default=10
     batch_size = cfg.batch_size
-    base_rbd_seq = cfg.rbd_name   # template sequence for generation
+    base_rbd_seq = rbd_sequence_dict[cfg.rbd_name]   # template sequence for generation
     rbd_id = np.array([map_dict['[CLS]']] + [map_dict[x] for x in base_rbd_seq] + [map_dict['[SEP]']])
     # load model
     ckpt_path = cfg.load_checkpoint_path
