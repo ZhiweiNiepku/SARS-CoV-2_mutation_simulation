@@ -1,5 +1,5 @@
 <br/>
-<h1 align="center">ACM Gordon Bell COVID 2022 Finalist: AI Based SARS-CoV-2 Mutation Simulation</h1>
+<h1 align="center">ACM Gordon Bell COVID 2022 Finalist</h1>
 <br/>
 
 This is the official implement of our work "[Running ahead of evolution - AI based simulaion for predicting future high-risk SARS-CoV-2 variants](https://journals.sagepub.com/doi/abs/10.1177/10943420231188077)".
