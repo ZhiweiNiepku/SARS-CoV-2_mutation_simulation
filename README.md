@@ -2,7 +2,7 @@
 <h1 align="center">AI Based SARS-CoV-2 Mutation Simulation</h1>
 <br/>
 
-This is the official implement of our work "Running ahead of evolution - AI based simulaion for predicting future high-risk SARS-CoV-2 variants".
+This is the official implement of our work "[Running ahead of evolution - AI based simulaion for predicting future high-risk SARS-CoV-2 variants](https://journals.sagepub.com/doi/abs/10.1177/10943420231188077)" (ACM Gordon Bell COVID 2022 Finalist).
 
 To decipher the mutat law of the virus, we develop a solution for the RBD mutation simulation of SARS-CoV-2 based on AI and HPC. Our method paves the way for simulating coronavirus evolution in order to prepare for a future pandemic that will inevitably take place.
 
