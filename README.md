@@ -3,7 +3,7 @@
 <br/>
 
 This is the official implement of our work "[Running ahead of evolution - AI based simulaion for predicting future high-risk SARS-CoV-2 variants](https://journals.sagepub.com/doi/abs/10.1177/10943420231188077)".
-*A PDF version of the published paper can be downloaded from [here](https://github.com/ZhiweiNiepku/SARS-CoV-2_mutation_simulation/blob/main/IJHPCA_online.pdf).*
+**A PDF version of the published paper can be downloaded from [here](https://github.com/ZhiweiNiepku/SARS-CoV-2_mutation_simulation/blob/main/IJHPCA_online.pdf).**
 
 In order to catch up with the intricate evolution of the virus in real time, we develop a protein language model ProtFound based on AI and HPC to carry out mutation simulations of multiple lineages.
 Our method paves the way for simulating coronavirus evolution in order to prepare for a future pandemic that will inevitably take place.
